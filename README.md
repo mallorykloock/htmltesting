@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -10,13 +9,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 <title>Kalay - Portfolio HTML Template</title>
-<!--
 
-Template 2087 Kalay
-
-http://www.tooplate.com/view/2087-kalay
-
--->
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/animate.css">
 <link rel="stylesheet" href="css/magnific-popup.css">
